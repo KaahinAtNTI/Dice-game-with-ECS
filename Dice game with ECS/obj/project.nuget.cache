@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lby885uNhP95oU8rAva4iL6VU6eokJ/Uv5CO2XMRu5QlxjvnrYS7kLyWNc59GAfUR8ft8N/YLOvV6HWHE6DoCQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\ECS dice game 2\\ECS dice game 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo.axelsson2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
