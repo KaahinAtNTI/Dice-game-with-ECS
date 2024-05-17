@@ -23,4 +23,4 @@ This project is licensed under the [MIT License](LICENSE).
 This game was developed by [Hugge05](https://github.com/Hugge05/).
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at [hugo.axelsson@elev.ga.ntig.se]().
+If you have any questions or suggestions, feel free to contact me at [hugo.axelsson@elev.ga.ntig.se](mailto).
