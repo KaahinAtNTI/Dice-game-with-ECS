@@ -34,10 +34,15 @@ Objective: Keep guessing until you correctly predict the randomly generated numb
 
 **FAQs and Troubleshooting**
 Q: The game won't start. What should I do?
+
 A: Ensure that you have the .NET runtime installed and that all game files are in the same directory.
+
 Q: How can I restart the game?
+
 A: Currently, the game does not support a restart feature. You will need to rerun the game from the command line or executable.
+
 Q: Is it possible to input negative numbers or non-integer values?
+
 A: No, the game only accepts positive integer guesses between 1 and 6.
 
 **Contact Information**
