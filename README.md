@@ -20,7 +20,7 @@ Contributions are not currently accepted for this project.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
-This game was developed by [Your Name].
+This game was developed by [Hugge05].
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at [Your Email Address].
