@@ -1,4 +1,4 @@
-Developer Documentation for Guess the Dice Number Game
+**Developer Documentation for Guess the Dice Number Game**
 
 **Table of Contents**
 
