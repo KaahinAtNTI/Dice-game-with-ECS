@@ -2,6 +2,10 @@ Developer Documentation for Guess the Dice Number Game
 
 **Table of Contents**
 
+
+
+
+
 Introduction
 Technical Specifications and Design
 2.1. Game Mechanics Overview
@@ -18,12 +22,12 @@ Best Practice Recommendations
 References and Further Reading
 Feedback and Updates
 **Introduction**
-This documentation provides a comprehensive guide to the development of the Guess the Dice Number Game using C# and Visual Studio. It aims to serve as a resource for understanding and contributing to the project.
+This documentation provides a comprehensive guide to developing the Guess the Dice Number Game using C# and Visual Studio. It aims to serve as a resource for understanding and contributing to the project.
 
 **Technical Specifications and Design**
 2.1. Game Mechanics Overview
 
-The game presents the player with a virtual dice roll, and the objective is to guess the number rolled. Players input their guess, and the game provides feedback on whether the guess is correct or not.
+The game presents the player with a virtual dice roll, and the objective is to guess the number rolled. Players input their guesses, and the game provides feedback on whether it is correct.
 
 **2.2. Architecture Overview**
 
@@ -32,6 +36,13 @@ The game follows a simple architecture, utilizing C# for logic implementation an
 **2.2.1. Architectural Diagrams**
 
 (Insert architectural diagrams here to illustrate the flow of the game.)
+
+**ECS Architecture Flowchart**
+![image](https://github.com/Hugge05/Dice-game-with-ECS/assets/75117937/c3624570-6ad1-4ed7-a063-26e822f0b2be)
+
+
+**Game Loop Sequence Diagram**
+![image](https://github.com/Hugge05/Dice-game-with-ECS/assets/75117937/284a2bca-8940-4b95-9754-5513d94eb3c0)
 
 **2.2.2. Entities and Components**
 
