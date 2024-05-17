@@ -2,15 +2,15 @@
 
 **Table of Contents**
 
-**Introduction**
+*Introduction*
 
 *Installation Guide*
 
 *User Manual*
 
-**FAQs and Troubleshooting**
+*FAQs and Troubleshooting*
 
-__Contact Information__
+*Contact Information*
 
 **Introduction**
 Welcome to the ECS Dice Game user documentation. This document will guide you through the installation process, explain how to play the game, address common questions and issues, and provide contact information for further assistance.
