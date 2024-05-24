@@ -6,8 +6,6 @@ using System;
 
 namespace ECS
 {
-
-
     internal class Program
     {
         static void Main(string[] args)
@@ -29,8 +27,8 @@ namespace ECS
                 diceCheckSystem.DiceNumber(player);
                 inputSystem.InputNumber(player);
 
-                int guess = player.GetComponent<InputComponent>().guess;
-                int actualDiceValue = player.GetComponent<DiceComponent>().current_dicevalue;
+                int guess = player.GetComponent<InputComponent>().Guess;
+                int actualDiceValue = player.GetComponent<DiceComponent>().CurrentDiceValue;
 
                 if (guess == actualDiceValue)
                 {
