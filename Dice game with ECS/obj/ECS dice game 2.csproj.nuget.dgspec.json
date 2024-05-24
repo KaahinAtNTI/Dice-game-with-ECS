@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\ECS dice game 2\\ECS dice game 2.csproj": {}
+    "/workspaces/Dice-game-with-ECS/Dice game with ECS/ECS dice game 2.csproj": {}
   },
   "projects": {
-    "C:\\dev\\ECS dice game 2\\ECS dice game 2.csproj": {
+    "/workspaces/Dice-game-with-ECS/Dice game with ECS/ECS dice game 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\ECS dice game 2\\ECS dice game 2.csproj",
+        "projectUniqueName": "/workspaces/Dice-game-with-ECS/Dice game with ECS/ECS dice game 2.csproj",
         "projectName": "ECS dice game 2",
-        "projectPath": "C:\\dev\\ECS dice game 2\\ECS dice game 2.csproj",
-        "packagesPath": "C:\\Users\\Hugo.axelsson2\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\ECS dice game 2\\obj\\",
+        "projectPath": "/workspaces/Dice-game-with-ECS/Dice game with ECS/ECS dice game 2.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Dice-game-with-ECS/Dice game with ECS/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hugo.axelsson2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,8 +55,16 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.31, 3.1.31]"
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -65,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
         }
       }
     }

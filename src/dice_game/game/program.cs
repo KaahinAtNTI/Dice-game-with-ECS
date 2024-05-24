@@ -1,6 +1,7 @@
 using System;
+using ECS.Entities;
 
-namespace ECS_dice_game_2
+namespace ECS_Main
 {
     internal class Program
     {

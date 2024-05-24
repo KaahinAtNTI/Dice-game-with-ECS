@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ECS_dice_game_2
+namespace ECS.Entities
 {
     public class Entity
     {

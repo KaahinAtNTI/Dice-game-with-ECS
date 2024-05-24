@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = ECS_dice_game_2
-build_property.ProjectDir = C:\dev\ECS dice game 2\
+build_property.ProjectDir = /workspaces/Dice-game-with-ECS/Dice game with ECS/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

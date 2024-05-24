@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Lby885uNhP95oU8rAva4iL6VU6eokJ/Uv5CO2XMRu5QlxjvnrYS7kLyWNc59GAfUR8ft8N/YLOvV6HWHE6DoCQ==",
+  "dgSpecHash": "dJZx/t9levQDxY4QGO9fPr4SrES1awi3GPuBdRialdzpBY87VuE48rfu+rjuO0Tz/qVK08eSm9lFZSTWw3WL8Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\ECS dice game 2\\ECS dice game 2.csproj",
+  "projectFilePath": "/workspaces/Dice-game-with-ECS/Dice game with ECS/ECS dice game 2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hugo.axelsson2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
