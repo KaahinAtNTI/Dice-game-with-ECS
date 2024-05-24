@@ -1,8 +1,13 @@
-using System;
 using ECS.Entities;
+using ECS.Components;
+using ECS.Systems;
 
-namespace ECS_Main
+
+
+namespace ECS
 {
+
+
     internal class Program
     {
         static void Main(string[] args)
